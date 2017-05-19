@@ -18,6 +18,9 @@ Sequence of mvp:
 0. Web page to display line chart with anomalies.
 0. Web page to list anomaly dates and times.
 
+0. Add GraphQL API to respond with the status of servers under watch.
+
 0. Add analytics to identify patterns.
+0. Respond to GraphQL API query with best time.
 
 Join me on this!
