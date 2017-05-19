@@ -16,7 +16,7 @@ Sequence of mvp:
 0. Ping URL or make HTTP request on the schedule specified.
 0. Store data in a time-series database (InfluxDB).
 0. Web page to display line chart with anomalies.
-0. Web page to list anomaly dates and times.
+0. Web page to list anomaly dates and times (paged)
 
 0. Add GraphQL API to respond with the status of servers under watch.
 
