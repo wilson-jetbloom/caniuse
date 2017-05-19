@@ -12,9 +12,10 @@ Sequence of mvp:
 0. Ping URL (or make HTTP request to URL alone) on the schedule specified.
 0. A file of specify URLs or IPs, how often to ping, and keywords.
 0. Web page to specify URLs or IPs and how often to ping.
+0. Web page has site feedback.
 
 0. Store response data in a time-series database (InfluxDB).
-0. Web page to display line chart with anomalies (Graphana).
+0. Web page displays line chart with anomalies (Graphana).
 
    ![](https://cloud.githubusercontent.com/assets/243499/9864408/a7fff336-5b8c-11e5-8797-99494656a976.png)
 
