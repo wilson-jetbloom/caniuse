@@ -24,3 +24,4 @@ Sequence of mvp:
 0. Respond to GraphQL API query with best time.
 
 Join me on this!
+Money made from this project will be split according to line counts by each committer.
