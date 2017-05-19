@@ -12,8 +12,10 @@ such as "don't plan on using this URL Fridays at 3pm because the system has been
 
 Sequence of mvp:
 
-1. Web page to specify URLs or IPs and how often to ping.
 0. Ping URL or make HTTP request on the schedule specified.
+0. A file of specify URLs or IPs and how often to ping.
+0. Web page to specify URLs or IPs and how often to ping.
+
 0. Store data in a time-series database (InfluxDB).
 0. Web page to display line chart with anomalies.
 0. Web page to list anomaly dates and times (paged)
