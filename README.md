@@ -14,7 +14,10 @@ Sequence of mvp:
 0. Web page to specify URLs or IPs and how often to ping.
 
 0. Store response data in a time-series database (InfluxDB).
-0. Web page to display line chart with anomalies.
+0. Web page to display line chart with anomalies (Graphana).
+
+   ![](https://cloud.githubusercontent.com/assets/243499/9864408/a7fff336-5b8c-11e5-8797-99494656a976.png)
+
 0. Web page to list anomaly dates and times (paged)
 
 0. Add GraphQL API to respond with the status and speed of servers under watch based on a keyword defined.
