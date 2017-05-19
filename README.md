@@ -10,7 +10,7 @@ Bring up the UI. Specify the URLs to monitor and you'll see how consistently you
 Sequence of mvp:
 
 1. Ping URL (or make HTTP request to URL alone) on the schedule specified.
-0. A file of specify URLs or IPs, how often to ping, and keywords.
+0. A file of specific URLs or IPs, how often to ping, and keywords.
 0. Web page to specify URLs or IPs and how often to ping.
 0. Web page has site feedback.
 
