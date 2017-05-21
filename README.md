@@ -20,6 +20,9 @@ Sequence of mvp:
    ![](https://cloud.githubusercontent.com/assets/243499/9864408/a7fff336-5b8c-11e5-8797-99494656a976.png)
 
 0. Web page to list anomaly dates and times (paged).
+0. Web page to present a specific anomaly which warrants an alert (email) to be sent.
+0. Web page to specify alert logic (such as the email address for each tag keyword specified).
+
 0. Alert host down by sending email [via TICK Kapacitor]
 0. Alert host down by sending SMS [via IFTTT?]. 
 0. Add GraphQL API to respond with the status and speed of servers under watch based on a keyword defined.
